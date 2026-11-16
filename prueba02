@@ -10,7 +10,7 @@
   </style>
 </head>
 <body>
-  <model-viewer src="modelo.glb" camera-controls auto-rotate
+  <model-viewer src="camarita kodak.glb" camera-controls auto-rotate
     touch-action="pan-y" alt="Modelo 3D"></model-viewer>
 </body>
 </html>
